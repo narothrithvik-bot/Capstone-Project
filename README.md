@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FinTrack - Personal Finance Expense Tracker
 
 FinTrack is a premium, high-performance Personal Finance Expense Tracker built as a Capstone Project. It leverages modern web technologies to provide a seamless and visually stunning experience for managing personal finances.
@@ -53,3 +54,6 @@ src/
 ## 📝 License
 
 This project is part of a Capstone Project and is for educational purposes.
+=======
+# Capstone-Project
+>>>>>>> 2c6db56c3a027cad944ae3810e07b932959d92f9
